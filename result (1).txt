@@ -1,0 +1,436 @@
+No.of Character count: 162881
+No.of Words: 37360
+No.of Sentence: 3106
+
+Longest sentence: [['To', 'thine', 'owne', 'peace', ':', 'if', 'he', 'be', 'now', 'return', "'", 'd', ',', 'As', 'checking', 'at', 'his', 'Voyage', ',', 'and', 'that', 'he', 'meanes', 'No', 'more', 'to', 'vndertake', 'it', ';', 'I', 'will', 'worke', 'him', 'To', 'an', 'exployt', 'now', 'ripe', 'in', 'my', 'Deuice', ',', 'Vnder', 'the', 'which', 'he', 'shall', 'not', 'choose', 'but', 'fall', ';', 'And', 'for', 'his', 'death', 'no', 'winde', 'of', 'blame', 'shall', 'breath', ',', 'But', 'euen', 'his', 'Mother', 'shall', 'vncharge', 'the', 'practice', ',', 'And', 'call', 'it', 'accident', ':', 'Some', 'two', 'Monthes', 'hence', 'Here', 'was', 'a', 'Gentleman', 'of', 'Normandy', ',', 'I', "'", 'ue', 'seene', 'my', 'selfe', ',', 'and', 'seru', "'", 'd', 'against', 'the', 'French', ',', 'And', 'they', 'ran', 'well', 'on', 'Horsebacke', ';', 'but', 'this', 'Gallant', 'Had', 'witchcraft', 'in', "'", 't', ';', 'he', 'grew', 'into', 'his', 'Seat', ',', 'And', 'to', 'such', 'wondrous', 'doing', 'brought', 'his', 'Horse', ',', 'As', 'had', 'he', 'beene', 'encorps', "'", 't', 'and', 'demy', '-', 'Natur', "'", 'd', 'With', 'the', 'braue', 'Beast', ',', 'so', 'farre', 'he', 'past', 'my', 'thought', ',', 'That', 'I', 'in', 'forgery', 'of', 'shapes', 'and', 'trickes', ',', 'Come', 'short', 'of', 'what', 'he', 'did']]
+
+Shortest sentences: [13, 239, 340, 352, 409, 654, 659, 670, 1254, 1359, 1369, 1510, 1597, 1599, 1649, 2142, 2153, 2159, 2284, 2347, 2693, 2954, 2956, 2958, 3074]
+
+10 most freqently used nouns and their count: 
+Enter : 82 times
+Laer : 60 times
+King : 163 times
+Qu : 62 times
+Ile : 58 times
+Lord : 210 times
+Ham : 335 times
+Hor : 95 times
+Hamlet : 97 times
+Ophe : 56 times
+
+10 most freqently used verbs and their count: 
+know : 59 times
+Let : 32 times
+let : 48 times
+make : 41 times
+see : 32 times
+say : 40 times
+go : 36 times
+haue : 91 times
+come : 51 times
+'s : 38 times
+
+10 most freqently used adjectives and their count: 
+owne : 18 times
+good : 76 times
+thy : 56 times
+great : 19 times
+haue : 16 times
+Good : 21 times
+true : 21 times
+thou : 25 times
+much : 30 times
+dead : 22 times
+old : 16 times
+Histogram visualizing total words per sentence distributions
+no.of sentence:3106
+
+s1 : 10 words  s2 : 3 words  s3 : 3 words  s4 : 7 words  s5 : 2 words  s6 : 5 words  s7 : 2 words  s8 : 9 words  
+s9 : 2 words  s10 : 4 words  s11 : 2 words  s12 : 2 words  s13 : 2 words  s14 : 1 words  s15 : 2 words  s16 : 7 words  
+s17 : 2 words  s18 : 11 words  s19 : 2 words  s20 : 17 words  s21 : 2 words  s22 : 6 words  s23 : 2 words  s24 : 4 words  
+s25 : 2 words  s26 : 4 words  s27 : 19 words  s28 : 5 words  s29 : 2 words  s30 : 6 words  s31 : 7 words  s32 : 2 words  
+s33 : 4 words  s34 : 2 words  s35 : 7 words  s36 : 2 words  s37 : 4 words  s38 : 2 words  s39 : 12 words  s40 : 2 words  
+s41 : 11 words  s42 : 3 words  s43 : 2 words  s44 : 2 words  s45 : 2 words  s46 : 7 words  s47 : 2 words  s48 : 4 words  
+s49 : 2 words  s50 : 6 words  s51 : 2 words  s52 : 13 words  s53 : 2 words  s54 : 4 words  s55 : 2 words  s56 : 62 words  
+s57 : 2 words  s58 : 8 words  s59 : 2 words  s60 : 29 words  s61 : 2 words  s62 : 14 words  s63 : 2 words  s64 : 42 words  
+s65 : 2 words  s66 : 10 words  s67 : 5 words  s68 : 2 words  s69 : 12 words  s70 : 2 words  s71 : 9 words  s72 : 2 words  
+s73 : 7 words  s74 : 3 words  s75 : 2 words  s76 : 12 words  s77 : 5 words  s78 : 2 words  s79 : 3 words  s80 : 2 words  
+s81 : 36 words  s82 : 2 words  s83 : 3 words  s84 : 2 words  s85 : 5 words  s86 : 2 words  s87 : 12 words  s88 : 4 words  
+s89 : 2 words  s90 : 8 words  s91 : 2 words  s92 : 4 words  s93 : 14 words  s94 : 7 words  s95 : 2 words  s96 : 19 words  
+s97 : 2 words  s98 : 7 words  s99 : 2 words  s100 : 44 words  s101 : 3 words  s102 : 2 words  s103 : 21 words  s104 : 2 words  
+s105 : 29 words  s106 : 2 words  s107 : 96 words  s108 : 2 words  s109 : 56 words  s110 : 113 words  s111 : 124 words  s112 : 4 words  
+s113 : 21 words  s114 : 18 words  s115 : 26 words  s116 : 18 words  s117 : 37 words  s118 : 5 words  s119 : 3 words  s120 : 2 words  
+s121 : 9 words  s122 : 2 words  s123 : 7 words  s124 : 2 words  s125 : 3 words  s126 : 2 words  s127 : 3 words  s128 : 2 words  
+s129 : 4 words  s130 : 3 words  s131 : 32 words  s132 : 2 words  s133 : 10 words  s134 : 2 words  s135 : 14 words  s136 : 60 words  
+s137 : 11 words  s138 : 2 words  s139 : 9 words  s140 : 70 words  s141 : 2 words  s142 : 12 words  s143 : 45 words  s144 : 36 words  
+s145 : 2 words  s146 : 20 words  s147 : 2 words  s148 : 3 words  s149 : 24 words  s150 : 2 words  s151 : 63 words  s152 : 86 words  
+s153 : 79 words  s154 : 5 words  s155 : 5 words  s156 : 17 words  s157 : 32 words  s158 : 72 words  s159 : 2 words  s160 : 12 words  
+s161 : 2 words  s162 : 8 words  s163 : 5 words  s164 : 12 words  s165 : 7 words  s166 : 6 words  s167 : 14 words  s168 : 19 words  
+s169 : 28 words  s170 : 8 words  s171 : 2 words  s172 : 58 words  s173 : 2 words  s174 : 6 words  s175 : 4 words  s176 : 2 words  
+s177 : 14 words  s178 : 2 words  s179 : 30 words  s180 : 2 words  s181 : 10 words  s182 : 2 words  s183 : 11 words  s184 : 2 words  
+s185 : 14 words  s186 : 2 words  s187 : 19 words  s188 : 37 words  s189 : 2 words  s190 : 6 words  s191 : 2 words  s192 : 11 words  
+s193 : 2 words  s194 : 3 words  s195 : 72 words  s196 : 35 words  s197 : 2 words  s198 : 53 words  s199 : 14 words  s200 : 64 words  
+s201 : 56 words  s202 : 58 words  s203 : 46 words  s204 : 2 words  s205 : 19 words  s206 : 2 words  s207 : 9 words  s208 : 2 words  
+s209 : 18 words  s210 : 56 words  s211 : 3 words  s212 : 2 words  s213 : 3 words  s214 : 2 words  s215 : 36 words  s216 : 6 words  
+s217 : 19 words  s218 : 5 words  s219 : 26 words  s220 : 56 words  s221 : 33 words  s222 : 15 words  s223 : 25 words  s224 : 6 words  
+s225 : 4 words  s226 : 35 words  s227 : 4 words  s228 : 20 words  s229 : 25 words  s230 : 12 words  s231 : 8 words  s232 : 2 words  
+s233 : 4 words  s234 : 2 words  s235 : 16 words  s236 : 2 words  s237 : 10 words  s238 : 2 words  s239 : 20 words  s240 : 1 words  
+s241 : 2 words  s242 : 3 words  s243 : 2 words  s244 : 12 words  s245 : 9 words  s246 : 2 words  s247 : 7 words  s248 : 2 words  
+s249 : 30 words  s250 : 15 words  s251 : 12 words  s252 : 2 words  s253 : 10 words  s254 : 2 words  s255 : 20 words  s256 : 2 words  
+s257 : 8 words  s258 : 2 words  s259 : 36 words  s260 : 9 words  s261 : 2 words  s262 : 5 words  s263 : 2 words  s264 : 9 words  
+s265 : 10 words  s266 : 2 words  s267 : 20 words  s268 : 2 words  s269 : 9 words  s270 : 2 words  s271 : 2 words  s272 : 2 words  
+s273 : 2 words  s274 : 7 words  s275 : 2 words  s276 : 5 words  s277 : 2 words  s278 : 26 words  s279 : 2 words  s280 : 6 words  
+s281 : 2 words  s282 : 28 words  s283 : 73 words  s284 : 47 words  s285 : 11 words  s286 : 2 words  s287 : 5 words  s288 : 2 words  
+s289 : 8 words  s290 : 2 words  s291 : 7 words  s292 : 2 words  s293 : 61 words  s294 : 2 words  s295 : 3 words  s296 : 2 words  
+s297 : 27 words  s298 : 2 words  s299 : 10 words  s300 : 7 words  s301 : 2 words  s302 : 4 words  s303 : 2 words  s304 : 7 words  
+s305 : 2 words  s306 : 6 words  s307 : 2 words  s308 : 5 words  s309 : 2 words  s310 : 7 words  s311 : 2 words  s312 : 7 words  
+s313 : 2 words  s314 : 11 words  s315 : 2 words  s316 : 6 words  s317 : 2 words  s318 : 8 words  s319 : 2 words  s320 : 5 words  
+s321 : 2 words  s322 : 3 words  s323 : 2 words  s324 : 7 words  s325 : 2 words  s326 : 2 words  s327 : 2 words  s328 : 6 words  
+s329 : 2 words  s330 : 8 words  s331 : 2 words  s332 : 10 words  s333 : 2 words  s334 : 9 words  s335 : 2 words  s336 : 3 words  
+s337 : 2 words  s338 : 6 words  s339 : 2 words  s340 : 5 words  s341 : 1 words  s342 : 2 words  s343 : 17 words  s344 : 2 words  
+s345 : 10 words  s346 : 2 words  s347 : 5 words  s348 : 2 words  s349 : 26 words  s350 : 60 words  s351 : 2 words  s352 : 6 words  
+s353 : 1 words  s354 : 2 words  s355 : 10 words  s356 : 6 words  s357 : 39 words  s358 : 2 words  s359 : 2 words  s360 : 5 words  
+s361 : 2 words  s362 : 33 words  s363 : 2 words  s364 : 5 words  s365 : 2 words  s366 : 43 words  s367 : 2 words  s368 : 2 words  
+s369 : 4 words  s370 : 2 words  s371 : 36 words  s372 : 74 words  s373 : 24 words  s374 : 46 words  s375 : 34 words  s376 : 28 words  
+s377 : 59 words  s378 : 20 words  s379 : 2 words  s380 : 61 words  s381 : 2 words  s382 : 6 words  s383 : 3 words  s384 : 25 words  
+s385 : 2 words  s386 : 4 words  s387 : 40 words  s388 : 66 words  s389 : 22 words  s390 : 49 words  s391 : 22 words  s392 : 27 words  
+s393 : 32 words  s394 : 8 words  s395 : 2 words  s396 : 10 words  s397 : 2 words  s398 : 10 words  s399 : 2 words  s400 : 12 words  
+s401 : 2 words  s402 : 16 words  s403 : 2 words  s404 : 2 words  s405 : 3 words  s406 : 2 words  s407 : 9 words  s408 : 2 words  
+s409 : 11 words  s410 : 1 words  s411 : 2 words  s412 : 34 words  s413 : 43 words  s414 : 11 words  s415 : 2 words  s416 : 15 words  
+s417 : 2 words  s418 : 4 words  s419 : 13 words  s420 : 11 words  s421 : 2 words  s422 : 12 words  s423 : 2 words  s424 : 26 words  
+s425 : 28 words  s426 : 2 words  s427 : 15 words  s428 : 2 words  s429 : 13 words  s430 : 2 words  s431 : 17 words  s432 : 2 words  
+s433 : 7 words  s434 : 50 words  s435 : 27 words  s436 : 30 words  s437 : 45 words  s438 : 49 words  s439 : 2 words  s440 : 6 words  
+s441 : 2 words  s442 : 7 words  s443 : 2 words  s444 : 10 words  s445 : 2 words  s446 : 8 words  s447 : 2 words  s448 : 4 words  
+s449 : 2 words  s450 : 6 words  s451 : 2 words  s452 : 5 words  s453 : 2 words  s454 : 22 words  s455 : 7 words  s456 : 2 words  
+s457 : 43 words  s458 : 2 words  s459 : 5 words  s460 : 2 words  s461 : 37 words  s462 : 3 words  s463 : 2 words  s464 : 6 words  
+s465 : 2 words  s466 : 56 words  s467 : 71 words  s468 : 5 words  s469 : 21 words  s470 : 29 words  s471 : 2 words  s472 : 5 words  
+s473 : 4 words  s474 : 2 words  s475 : 19 words  s476 : 2 words  s477 : 20 words  s478 : 2 words  s479 : 5 words  s480 : 2 words  
+s481 : 10 words  s482 : 2 words  s483 : 4 words  s484 : 2 words  s485 : 8 words  s486 : 23 words  s487 : 17 words  s488 : 2 words  
+s489 : 11 words  s490 : 45 words  s491 : 2 words  s492 : 11 words  s493 : 2 words  s494 : 6 words  s495 : 2 words  s496 : 4 words  
+s497 : 2 words  s498 : 9 words  s499 : 2 words  s500 : 29 words  s501 : 30 words  s502 : 2 words  s503 : 4 words  s504 : 2 words  
+s505 : 5 words  s506 : 2 words  s507 : 13 words  s508 : 2 words  s509 : 10 words  s510 : 2 words  s511 : 8 words  s512 : 2 words  
+s513 : 4 words  s514 : 2 words  s515 : 8 words  s516 : 2 words  s517 : 5 words  s518 : 2 words  s519 : 6 words  s520 : 6 words  
+s521 : 2 words  s522 : 2 words  s523 : 2 words  s524 : 2 words  s525 : 2 words  s526 : 18 words  s527 : 2 words  s528 : 3 words  
+s529 : 2 words  s530 : 14 words  s531 : 2 words  s532 : 7 words  s533 : 2 words  s534 : 10 words  s535 : 2 words  s536 : 2 words  
+s537 : 2 words  s538 : 48 words  s539 : 99 words  s540 : 2 words  s541 : 3 words  s542 : 2 words  s543 : 7 words  s544 : 2 words  
+s545 : 2 words  s546 : 2 words  s547 : 20 words  s548 : 2 words  s549 : 27 words  s550 : 2 words  s551 : 36 words  s552 : 60 words  
+s553 : 2 words  s554 : 8 words  s555 : 2 words  s556 : 17 words  s557 : 15 words  s558 : 69 words  s559 : 46 words  s560 : 141 words  
+s561 : 90 words  s562 : 43 words  s563 : 34 words  s564 : 2 words  s565 : 2 words  s566 : 7 words  s567 : 6 words  s568 : 6 words  
+s569 : 26 words  s570 : 19 words  s571 : 68 words  s572 : 9 words  s573 : 65 words  s574 : 2 words  s575 : 3 words  s576 : 2 words  
+s577 : 6 words  s578 : 5 words  s579 : 2 words  s580 : 2 words  s581 : 2 words  s582 : 3 words  s583 : 2 words  s584 : 3 words  
+s585 : 2 words  s586 : 8 words  s587 : 2 words  s588 : 12 words  s589 : 2 words  s590 : 6 words  s591 : 2 words  s592 : 6 words  
+s593 : 2 words  s594 : 3 words  s595 : 2 words  s596 : 5 words  s597 : 2 words  s598 : 6 words  s599 : 2 words  s600 : 8 words  
+s601 : 2 words  s602 : 5 words  s603 : 2 words  s604 : 13 words  s605 : 7 words  s606 : 2 words  s607 : 9 words  s608 : 2 words  
+s609 : 17 words  s610 : 2 words  s611 : 16 words  s612 : 2 words  s613 : 71 words  s614 : 2 words  s615 : 10 words  s616 : 2 words  
+s617 : 13 words  s618 : 2 words  s619 : 7 words  s620 : 2 words  s621 : 53 words  s622 : 19 words  s623 : 2 words  s624 : 7 words  
+s625 : 2 words  s626 : 2 words  s627 : 9 words  s628 : 2 words  s629 : 6 words  s630 : 2 words  s631 : 6 words  s632 : 2 words  
+s633 : 6 words  s634 : 2 words  s635 : 7 words  s636 : 2 words  s637 : 3 words  s638 : 2 words  s639 : 6 words  s640 : 2 words  
+s641 : 7 words  s642 : 2 words  s643 : 2 words  s644 : 6 words  s645 : 2 words  s646 : 8 words  s647 : 5 words  s648 : 12 words  
+s649 : 2 words  s650 : 5 words  s651 : 2 words  s652 : 10 words  s653 : 4 words  s654 : 2 words  s655 : 1 words  s656 : 2 words  
+s657 : 4 words  s658 : 35 words  s659 : 2 words  s660 : 1 words  s661 : 2 words  s662 : 17 words  s663 : 9 words  s664 : 2 words  
+s665 : 10 words  s666 : 2 words  s667 : 9 words  s668 : 21 words  s669 : 129 words  s670 : 2 words  s671 : 1 words  s672 : 2 words  
+s673 : 85 words  s674 : 9 words  s675 : 2 words  s676 : 3 words  s677 : 6 words  s678 : 2 words  s679 : 9 words  s680 : 2 words  
+s681 : 4 words  s682 : 2 words  s683 : 19 words  s684 : 2 words  s685 : 7 words  s686 : 2 words  s687 : 9 words  s688 : 89 words  
+s689 : 6 words  s690 : 2 words  s691 : 6 words  s692 : 2 words  s693 : 79 words  s694 : 2 words  s695 : 4 words  s696 : 2 words  
+s697 : 13 words  s698 : 5 words  s699 : 2 words  s700 : 6 words  s701 : 2 words  s702 : 72 words  s703 : 2 words  s704 : 4 words  
+s705 : 2 words  s706 : 6 words  s707 : 2 words  s708 : 8 words  s709 : 2 words  s710 : 60 words  s711 : 36 words  s712 : 12 words  
+s713 : 2 words  s714 : 4 words  s715 : 2 words  s716 : 7 words  s717 : 10 words  s718 : 11 words  s719 : 2 words  s720 : 14 words  
+s721 : 2 words  s722 : 15 words  s723 : 71 words  s724 : 59 words  s725 : 2 words  s726 : 4 words  s727 : 2 words  s728 : 7 words  
+s729 : 2 words  s730 : 3 words  s731 : 2 words  s732 : 6 words  s733 : 2 words  s734 : 4 words  s735 : 2 words  s736 : 6 words  
+s737 : 2 words  s738 : 5 words  s739 : 2 words  s740 : 3 words  s741 : 2 words  s742 : 12 words  s743 : 2 words  s744 : 9 words  
+s745 : 2 words  s746 : 9 words  s747 : 2 words  s748 : 81 words  s749 : 2 words  s750 : 5 words  s751 : 2 words  s752 : 14 words  
+s753 : 2 words  s754 : 4 words  s755 : 2 words  s756 : 50 words  s757 : 52 words  s758 : 50 words  s759 : 2 words  s760 : 48 words  
+s761 : 15 words  s762 : 2 words  s763 : 25 words  s764 : 2 words  s765 : 6 words  s766 : 15 words  s767 : 49 words  s768 : 29 words  
+s769 : 2 words  s770 : 3 words  s771 : 12 words  s772 : 2 words  s773 : 6 words  s774 : 25 words  s775 : 28 words  s776 : 29 words  
+s777 : 73 words  s778 : 2 words  s779 : 30 words  s780 : 47 words  s781 : 2 words  s782 : 24 words  s783 : 2 words  s784 : 28 words  
+s785 : 2 words  s786 : 6 words  s787 : 2 words  s788 : 6 words  s789 : 13 words  s790 : 12 words  s791 : 2 words  s792 : 13 words  
+s793 : 2 words  s794 : 2 words  s795 : 2 words  s796 : 3 words  s797 : 2 words  s798 : 15 words  s799 : 2 words  s800 : 9 words  
+s801 : 2 words  s802 : 6 words  s803 : 68 words  s804 : 2 words  s805 : 11 words  s806 : 2 words  s807 : 18 words  s808 : 2 words  
+s809 : 12 words  s810 : 20 words  s811 : 2 words  s812 : 24 words  s813 : 8 words  s814 : 2 words  s815 : 7 words  s816 : 13 words  
+s817 : 2 words  s818 : 9 words  s819 : 104 words  s820 : 70 words  s821 : 2 words  s822 : 26 words  s823 : 13 words  s824 : 13 words  
+s825 : 4 words  s826 : 3 words  s827 : 2 words  s828 : 7 words  s829 : 43 words  s830 : 24 words  s831 : 30 words  s832 : 4 words  
+s833 : 2 words  s834 : 6 words  s835 : 2 words  s836 : 48 words  s837 : 48 words  s838 : 36 words  s839 : 3 words  s840 : 14 words  
+s841 : 29 words  s842 : 2 words  s843 : 6 words  s844 : 2 words  s845 : 10 words  s846 : 30 words  s847 : 33 words  s848 : 2 words  
+s849 : 15 words  s850 : 36 words  s851 : 2 words  s852 : 10 words  s853 : 2 words  s854 : 7 words  s855 : 2 words  s856 : 8 words  
+s857 : 2 words  s858 : 6 words  s859 : 6 words  s860 : 78 words  s861 : 74 words  s862 : 48 words  s863 : 2 words  s864 : 7 words  
+s865 : 2 words  s866 : 5 words  s867 : 2 words  s868 : 31 words  s869 : 2 words  s870 : 4 words  s871 : 2 words  s872 : 31 words  
+s873 : 2 words  s874 : 7 words  s875 : 2 words  s876 : 13 words  s877 : 2 words  s878 : 6 words  s879 : 2 words  s880 : 54 words  
+s881 : 2 words  s882 : 5 words  s883 : 7 words  s884 : 2 words  s885 : 9 words  s886 : 2 words  s887 : 14 words  s888 : 5 words  
+s889 : 5 words  s890 : 7 words  s891 : 2 words  s892 : 7 words  s893 : 2 words  s894 : 8 words  s895 : 2 words  s896 : 10 words  
+s897 : 2 words  s898 : 4 words  s899 : 2 words  s900 : 9 words  s901 : 2 words  s902 : 5 words  s903 : 2 words  s904 : 23 words  
+s905 : 2 words  s906 : 8 words  s907 : 2 words  s908 : 22 words  s909 : 2 words  s910 : 4 words  s911 : 2 words  s912 : 21 words  
+s913 : 5 words  s914 : 2 words  s915 : 6 words  s916 : 46 words  s917 : 6 words  s918 : 7 words  s919 : 2 words  s920 : 5 words  
+s921 : 2 words  s922 : 8 words  s923 : 2 words  s924 : 3 words  s925 : 2 words  s926 : 9 words  s927 : 2 words  s928 : 50 words  
+s929 : 47 words  s930 : 2 words  s931 : 23 words  s932 : 2 words  s933 : 4 words  s934 : 2 words  s935 : 19 words  s936 : 23 words  
+s937 : 19 words  s938 : 13 words  s939 : 2 words  s940 : 23 words  s941 : 2 words  s942 : 5 words  s943 : 2 words  s944 : 4 words  
+s945 : 2 words  s946 : 12 words  s947 : 5 words  s948 : 2 words  s949 : 4 words  s950 : 2 words  s951 : 6 words  s952 : 2 words  
+s953 : 5 words  s954 : 2 words  s955 : 5 words  s956 : 7 words  s957 : 12 words  s958 : 2 words  s959 : 7 words  s960 : 2 words  
+s961 : 21 words  s962 : 2 words  s963 : 7 words  s964 : 2 words  s965 : 3 words  s966 : 2 words  s967 : 15 words  s968 : 2 words  
+s969 : 6 words  s970 : 2 words  s971 : 7 words  s972 : 10 words  s973 : 6 words  s974 : 2 words  s975 : 12 words  s976 : 2 words  
+s977 : 12 words  s978 : 29 words  s979 : 2 words  s980 : 5 words  s981 : 2 words  s982 : 5 words  s983 : 2 words  s984 : 5 words  
+s985 : 2 words  s986 : 24 words  s987 : 2 words  s988 : 6 words  s989 : 2 words  s990 : 29 words  s991 : 2 words  s992 : 15 words  
+s993 : 2 words  s994 : 29 words  s995 : 2 words  s996 : 21 words  s997 : 2 words  s998 : 8 words  s999 : 2 words  s1000 : 21 words  
+s1001 : 2 words  s1002 : 34 words  s1003 : 2 words  s1004 : 6 words  s1005 : 2 words  s1006 : 4 words  s1007 : 42 words  s1008 : 2 words  
+s1009 : 9 words  s1010 : 2 words  s1011 : 35 words  s1012 : 6 words  s1013 : 6 words  s1014 : 13 words  s1015 : 2 words  s1016 : 7 words  
+s1017 : 2 words  s1018 : 4 words  s1019 : 41 words  s1020 : 2 words  s1021 : 6 words  s1022 : 2 words  s1023 : 63 words  s1024 : 2 words  
+s1025 : 4 words  s1026 : 2 words  s1027 : 16 words  s1028 : 2 words  s1029 : 7 words  s1030 : 2 words  s1031 : 117 words  s1032 : 9 words  
+s1033 : 5 words  s1034 : 5 words  s1035 : 9 words  s1036 : 8 words  s1037 : 8 words  s1038 : 23 words  s1039 : 20 words  s1040 : 2 words  
+s1041 : 11 words  s1042 : 2 words  s1043 : 14 words  s1044 : 2 words  s1045 : 39 words  s1046 : 2 words  s1047 : 84 words  s1048 : 2 words  
+s1049 : 14 words  s1050 : 2 words  s1051 : 6 words  s1052 : 11 words  s1053 : 2 words  s1054 : 13 words  s1055 : 2 words  s1056 : 15 words  
+s1057 : 7 words  s1058 : 2 words  s1059 : 6 words  s1060 : 2 words  s1061 : 4 words  s1062 : 5 words  s1063 : 2 words  s1064 : 79 words  
+s1065 : 2 words  s1066 : 5 words  s1067 : 5 words  s1068 : 5 words  s1069 : 12 words  s1070 : 40 words  s1071 : 2 words  s1072 : 27 words  
+s1073 : 24 words  s1074 : 2 words  s1075 : 5 words  s1076 : 2 words  s1077 : 11 words  s1078 : 2 words  s1079 : 7 words  s1080 : 2 words  
+s1081 : 7 words  s1082 : 5 words  s1083 : 2 words  s1084 : 43 words  s1085 : 16 words  s1086 : 5 words  s1087 : 2 words  s1088 : 4 words  
+s1089 : 2 words  s1090 : 23 words  s1091 : 33 words  s1092 : 16 words  s1093 : 2 words  s1094 : 6 words  s1095 : 2 words  s1096 : 24 words  
+s1097 : 3 words  s1098 : 2 words  s1099 : 5 words  s1100 : 2 words  s1101 : 29 words  s1102 : 2 words  s1103 : 22 words  s1104 : 2 words  
+s1105 : 4 words  s1106 : 9 words  s1107 : 16 words  s1108 : 2 words  s1109 : 9 words  s1110 : 2 words  s1111 : 10 words  s1112 : 9 words  
+s1113 : 7 words  s1114 : 2 words  s1115 : 3 words  s1116 : 2 words  s1117 : 3 words  s1118 : 2 words  s1119 : 10 words  s1120 : 44 words  
+s1121 : 21 words  s1122 : 5 words  s1123 : 2 words  s1124 : 14 words  s1125 : 2 words  s1126 : 9 words  s1127 : 2 words  s1128 : 15 words  
+s1129 : 2 words  s1130 : 4 words  s1131 : 2 words  s1132 : 11 words  s1133 : 2 words  s1134 : 17 words  s1135 : 2 words  s1136 : 4 words  
+s1137 : 2 words  s1138 : 7 words  s1139 : 2 words  s1140 : 37 words  s1141 : 7 words  s1142 : 6 words  s1143 : 9 words  s1144 : 12 words  
+s1145 : 5 words  s1146 : 20 words  s1147 : 8 words  s1148 : 20 words  s1149 : 19 words  s1150 : 35 words  s1151 : 14 words  s1152 : 4 words  
+s1153 : 6 words  s1154 : 2 words  s1155 : 90 words  s1156 : 43 words  s1157 : 32 words  s1158 : 29 words  s1159 : 127 words  s1160 : 2 words  
+s1161 : 16 words  s1162 : 4 words  s1163 : 11 words  s1164 : 47 words  s1165 : 28 words  s1166 : 48 words  s1167 : 43 words  s1168 : 46 words  
+s1169 : 48 words  s1170 : 2 words  s1171 : 4 words  s1172 : 2 words  s1173 : 11 words  s1174 : 21 words  s1175 : 6 words  s1176 : 4 words  
+s1177 : 11 words  s1178 : 2 words  s1179 : 4 words  s1180 : 2 words  s1181 : 9 words  s1182 : 4 words  s1183 : 52 words  s1184 : 25 words  
+s1185 : 59 words  s1186 : 2 words  s1187 : 23 words  s1188 : 4 words  s1189 : 2 words  s1190 : 14 words  s1191 : 14 words  s1192 : 24 words  
+s1193 : 19 words  s1194 : 2 words  s1195 : 11 words  s1196 : 2 words  s1197 : 6 words  s1198 : 22 words  s1199 : 13 words  s1200 : 3 words  
+s1201 : 2 words  s1202 : 3 words  s1203 : 3 words  s1204 : 2 words  s1205 : 13 words  s1206 : 15 words  s1207 : 2 words  s1208 : 3 words  
+s1209 : 2 words  s1210 : 10 words  s1211 : 27 words  s1212 : 4 words  s1213 : 2 words  s1214 : 3 words  s1215 : 2 words  s1216 : 3 words  
+s1217 : 11 words  s1218 : 15 words  s1219 : 2 words  s1220 : 4 words  s1221 : 2 words  s1222 : 3 words  s1223 : 2 words  s1224 : 13 words  
+s1225 : 10 words  s1226 : 69 words  s1227 : 5 words  s1228 : 3 words  s1229 : 19 words  s1230 : 18 words  s1231 : 43 words  s1232 : 52 words  
+s1233 : 5 words  s1234 : 5 words  s1235 : 7 words  s1236 : 12 words  s1237 : 8 words  s1238 : 17 words  s1239 : 5 words  s1240 : 2 words  
+s1241 : 60 words  s1242 : 3 words  s1243 : 2 words  s1244 : 6 words  s1245 : 49 words  s1246 : 3 words  s1247 : 7 words  s1248 : 4 words  
+s1249 : 38 words  s1250 : 16 words  s1251 : 18 words  s1252 : 21 words  s1253 : 50 words  s1254 : 24 words  s1255 : 1 words  s1256 : 16 words  
+s1257 : 2 words  s1258 : 31 words  s1259 : 2 words  s1260 : 18 words  s1261 : 2 words  s1262 : 31 words  s1263 : 2 words  s1264 : 6 words  
+s1265 : 2 words  s1266 : 4 words  s1267 : 2 words  s1268 : 7 words  s1269 : 2 words  s1270 : 13 words  s1271 : 2 words  s1272 : 8 words  
+s1273 : 2 words  s1274 : 61 words  s1275 : 2 words  s1276 : 22 words  s1277 : 2 words  s1278 : 19 words  s1279 : 17 words  s1280 : 2 words  
+s1281 : 5 words  s1282 : 2 words  s1283 : 2 words  s1284 : 29 words  s1285 : 51 words  s1286 : 5 words  s1287 : 2 words  s1288 : 45 words  
+s1289 : 2 words  s1290 : 6 words  s1291 : 2 words  s1292 : 6 words  s1293 : 26 words  s1294 : 34 words  s1295 : 2 words  s1296 : 16 words  
+s1297 : 31 words  s1298 : 4 words  s1299 : 2 words  s1300 : 12 words  s1301 : 2 words  s1302 : 3 words  s1303 : 2 words  s1304 : 79 words  
+s1305 : 11 words  s1306 : 48 words  s1307 : 73 words  s1308 : 58 words  s1309 : 52 words  s1310 : 8 words  s1311 : 10 words  s1312 : 2 words  
+s1313 : 14 words  s1314 : 2 words  s1315 : 10 words  s1316 : 2 words  s1317 : 19 words  s1318 : 7 words  s1319 : 2 words  s1320 : 9 words  
+s1321 : 2 words  s1322 : 55 words  s1323 : 3 words  s1324 : 2 words  s1325 : 8 words  s1326 : 2 words  s1327 : 2 words  s1328 : 2 words  
+s1329 : 4 words  s1330 : 2 words  s1331 : 5 words  s1332 : 2 words  s1333 : 17 words  s1334 : 2 words  s1335 : 12 words  s1336 : 2 words  
+s1337 : 33 words  s1338 : 14 words  s1339 : 5 words  s1340 : 2 words  s1341 : 9 words  s1342 : 2 words  s1343 : 7 words  s1344 : 16 words  
+s1345 : 4 words  s1346 : 2 words  s1347 : 5 words  s1348 : 2 words  s1349 : 6 words  s1350 : 11 words  s1351 : 28 words  s1352 : 38 words  
+s1353 : 14 words  s1354 : 18 words  s1355 : 6 words  s1356 : 2 words  s1357 : 5 words  s1358 : 2 words  s1359 : 24 words  s1360 : 1 words  
+s1361 : 2 words  s1362 : 7 words  s1363 : 2 words  s1364 : 14 words  s1365 : 18 words  s1366 : 6 words  s1367 : 4 words  s1368 : 25 words  
+s1369 : 9 words  s1370 : 1 words  s1371 : 2 words  s1372 : 6 words  s1373 : 2 words  s1374 : 10 words  s1375 : 37 words  s1376 : 16 words  
+s1377 : 10 words  s1378 : 20 words  s1379 : 6 words  s1380 : 3 words  s1381 : 2 words  s1382 : 13 words  s1383 : 48 words  s1384 : 56 words  
+s1385 : 19 words  s1386 : 6 words  s1387 : 2 words  s1388 : 2 words  s1389 : 27 words  s1390 : 8 words  s1391 : 38 words  s1392 : 48 words  
+s1393 : 7 words  s1394 : 2 words  s1395 : 5 words  s1396 : 17 words  s1397 : 4 words  s1398 : 16 words  s1399 : 56 words  s1400 : 20 words  
+s1401 : 2 words  s1402 : 17 words  s1403 : 2 words  s1404 : 11 words  s1405 : 2 words  s1406 : 97 words  s1407 : 78 words  s1408 : 4 words  
+s1409 : 2 words  s1410 : 4 words  s1411 : 2 words  s1412 : 15 words  s1413 : 98 words  s1414 : 46 words  s1415 : 76 words  s1416 : 2 words  
+s1417 : 13 words  s1418 : 2 words  s1419 : 5 words  s1420 : 18 words  s1421 : 59 words  s1422 : 5 words  s1423 : 3 words  s1424 : 8 words  
+s1425 : 14 words  s1426 : 2 words  s1427 : 8 words  s1428 : 2 words  s1429 : 6 words  s1430 : 3 words  s1431 : 8 words  s1432 : 2 words  
+s1433 : 5 words  s1434 : 2 words  s1435 : 3 words  s1436 : 2 words  s1437 : 5 words  s1438 : 2 words  s1439 : 7 words  s1440 : 2 words  
+s1441 : 17 words  s1442 : 2 words  s1443 : 4 words  s1444 : 2 words  s1445 : 32 words  s1446 : 9 words  s1447 : 26 words  s1448 : 31 words  
+s1449 : 14 words  s1450 : 15 words  s1451 : 26 words  s1452 : 7 words  s1453 : 21 words  s1454 : 13 words  s1455 : 6 words  s1456 : 11 words  
+s1457 : 19 words  s1458 : 60 words  s1459 : 29 words  s1460 : 2 words  s1461 : 4 words  s1462 : 23 words  s1463 : 23 words  s1464 : 3 words  
+s1465 : 4 words  s1466 : 2 words  s1467 : 12 words  s1468 : 4 words  s1469 : 2 words  s1470 : 6 words  s1471 : 2 words  s1472 : 23 words  
+s1473 : 2 words  s1474 : 13 words  s1475 : 2 words  s1476 : 5 words  s1477 : 16 words  s1478 : 2 words  s1479 : 12 words  s1480 : 2 words  
+s1481 : 6 words  s1482 : 2 words  s1483 : 22 words  s1484 : 2 words  s1485 : 16 words  s1486 : 5 words  s1487 : 2 words  s1488 : 9 words  
+s1489 : 2 words  s1490 : 9 words  s1491 : 2 words  s1492 : 10 words  s1493 : 2 words  s1494 : 8 words  s1495 : 2 words  s1496 : 9 words  
+s1497 : 2 words  s1498 : 3 words  s1499 : 2 words  s1500 : 9 words  s1501 : 2 words  s1502 : 3 words  s1503 : 2 words  s1504 : 8 words  
+s1505 : 2 words  s1506 : 6 words  s1507 : 2 words  s1508 : 13 words  s1509 : 5 words  s1510 : 2 words  s1511 : 1 words  s1512 : 2 words  
+s1513 : 7 words  s1514 : 2 words  s1515 : 3 words  s1516 : 2 words  s1517 : 3 words  s1518 : 2 words  s1519 : 19 words  s1520 : 18 words  
+s1521 : 2 words  s1522 : 10 words  s1523 : 2 words  s1524 : 3 words  s1525 : 16 words  s1526 : 3 words  s1527 : 10 words  s1528 : 61 words  
+s1529 : 3 words  s1530 : 5 words  s1531 : 14 words  s1532 : 11 words  s1533 : 13 words  s1534 : 9 words  s1535 : 10 words  s1536 : 25 words  
+s1537 : 14 words  s1538 : 19 words  s1539 : 31 words  s1540 : 2 words  s1541 : 2 words  s1542 : 7 words  s1543 : 2 words  s1544 : 9 words  
+s1545 : 2 words  s1546 : 10 words  s1547 : 2 words  s1548 : 18 words  s1549 : 2 words  s1550 : 9 words  s1551 : 2 words  s1552 : 12 words  
+s1553 : 20 words  s1554 : 2 words  s1555 : 13 words  s1556 : 3 words  s1557 : 19 words  s1558 : 2 words  s1559 : 12 words  s1560 : 2 words  
+s1561 : 5 words  s1562 : 2 words  s1563 : 4 words  s1564 : 6 words  s1565 : 2 words  s1566 : 52 words  s1567 : 2 words  s1568 : 21 words  
+s1569 : 85 words  s1570 : 2 words  s1571 : 45 words  s1572 : 7 words  s1573 : 37 words  s1574 : 2 words  s1575 : 3 words  s1576 : 2 words  
+s1577 : 18 words  s1578 : 17 words  s1579 : 2 words  s1580 : 5 words  s1581 : 51 words  s1582 : 38 words  s1583 : 34 words  s1584 : 22 words  
+s1585 : 21 words  s1586 : 57 words  s1587 : 37 words  s1588 : 9 words  s1589 : 11 words  s1590 : 2 words  s1591 : 61 words  s1592 : 2 words  
+s1593 : 6 words  s1594 : 2 words  s1595 : 28 words  s1596 : 2 words  s1597 : 5 words  s1598 : 1 words  s1599 : 8 words  s1600 : 1 words  
+s1601 : 2 words  s1602 : 8 words  s1603 : 2 words  s1604 : 7 words  s1605 : 2 words  s1606 : 8 words  s1607 : 2 words  s1608 : 14 words  
+s1609 : 2 words  s1610 : 20 words  s1611 : 2 words  s1612 : 7 words  s1613 : 2 words  s1614 : 8 words  s1615 : 43 words  s1616 : 28 words  
+s1617 : 3 words  s1618 : 8 words  s1619 : 2 words  s1620 : 8 words  s1621 : 2 words  s1622 : 16 words  s1623 : 2 words  s1624 : 9 words  
+s1625 : 2 words  s1626 : 12 words  s1627 : 2 words  s1628 : 4 words  s1629 : 2 words  s1630 : 5 words  s1631 : 3 words  s1632 : 10 words  
+s1633 : 9 words  s1634 : 2 words  s1635 : 56 words  s1636 : 7 words  s1637 : 2 words  s1638 : 29 words  s1639 : 15 words  s1640 : 2 words  
+s1641 : 3 words  s1642 : 2 words  s1643 : 6 words  s1644 : 2 words  s1645 : 5 words  s1646 : 2 words  s1647 : 6 words  s1648 : 2 words  
+s1649 : 5 words  s1650 : 1 words  s1651 : 2 words  s1652 : 6 words  s1653 : 2 words  s1654 : 5 words  s1655 : 2 words  s1656 : 29 words  
+s1657 : 43 words  s1658 : 2 words  s1659 : 3 words  s1660 : 2 words  s1661 : 27 words  s1662 : 4 words  s1663 : 2 words  s1664 : 6 words  
+s1665 : 2 words  s1666 : 14 words  s1667 : 5 words  s1668 : 2 words  s1669 : 4 words  s1670 : 2 words  s1671 : 7 words  s1672 : 2 words  
+s1673 : 7 words  s1674 : 5 words  s1675 : 2 words  s1676 : 4 words  s1677 : 4 words  s1678 : 22 words  s1679 : 3 words  s1680 : 2 words  
+s1681 : 10 words  s1682 : 2 words  s1683 : 5 words  s1684 : 2 words  s1685 : 4 words  s1686 : 2 words  s1687 : 7 words  s1688 : 2 words  
+s1689 : 9 words  s1690 : 2 words  s1691 : 4 words  s1692 : 2 words  s1693 : 7 words  s1694 : 2 words  s1695 : 34 words  s1696 : 2 words  
+s1697 : 18 words  s1698 : 2 words  s1699 : 6 words  s1700 : 2 words  s1701 : 17 words  s1702 : 2 words  s1703 : 3 words  s1704 : 2 words  
+s1705 : 15 words  s1706 : 37 words  s1707 : 2 words  s1708 : 4 words  s1709 : 2 words  s1710 : 5 words  s1711 : 2 words  s1712 : 12 words  
+s1713 : 30 words  s1714 : 4 words  s1715 : 2 words  s1716 : 15 words  s1717 : 2 words  s1718 : 11 words  s1719 : 13 words  s1720 : 2 words  
+s1721 : 15 words  s1722 : 2 words  s1723 : 11 words  s1724 : 8 words  s1725 : 2 words  s1726 : 8 words  s1727 : 2 words  s1728 : 10 words  
+s1729 : 2 words  s1730 : 11 words  s1731 : 19 words  s1732 : 2 words  s1733 : 4 words  s1734 : 2 words  s1735 : 21 words  s1736 : 2 words  
+s1737 : 14 words  s1738 : 6 words  s1739 : 4 words  s1740 : 31 words  s1741 : 2 words  s1742 : 16 words  s1743 : 2 words  s1744 : 7 words  
+s1745 : 7 words  s1746 : 2 words  s1747 : 5 words  s1748 : 2 words  s1749 : 3 words  s1750 : 2 words  s1751 : 5 words  s1752 : 2 words  
+s1753 : 4 words  s1754 : 2 words  s1755 : 9 words  s1756 : 2 words  s1757 : 31 words  s1758 : 7 words  s1759 : 2 words  s1760 : 16 words  
+s1761 : 2 words  s1762 : 74 words  s1763 : 18 words  s1764 : 19 words  s1765 : 5 words  s1766 : 3 words  s1767 : 2 words  s1768 : 12 words  
+s1769 : 2 words  s1770 : 6 words  s1771 : 9 words  s1772 : 2 words  s1773 : 14 words  s1774 : 2 words  s1775 : 7 words  s1776 : 2 words  
+s1777 : 8 words  s1778 : 2 words  s1779 : 5 words  s1780 : 2 words  s1781 : 4 words  s1782 : 2 words  s1783 : 22 words  s1784 : 6 words  
+s1785 : 2 words  s1786 : 5 words  s1787 : 2 words  s1788 : 2 words  s1789 : 8 words  s1790 : 29 words  s1791 : 21 words  s1792 : 56 words  
+s1793 : 19 words  s1794 : 8 words  s1795 : 2 words  s1796 : 18 words  s1797 : 40 words  s1798 : 2 words  s1799 : 27 words  s1800 : 2 words  
+s1801 : 65 words  s1802 : 14 words  s1803 : 34 words  s1804 : 12 words  s1805 : 2 words  s1806 : 27 words  s1807 : 2 words  s1808 : 5 words  
+s1809 : 2 words  s1810 : 2 words  s1811 : 3 words  s1812 : 2 words  s1813 : 24 words  s1814 : 48 words  s1815 : 22 words  s1816 : 2 words  
+s1817 : 5 words  s1818 : 25 words  s1819 : 75 words  s1820 : 12 words  s1821 : 32 words  s1822 : 10 words  s1823 : 12 words  s1824 : 25 words  
+s1825 : 24 words  s1826 : 75 words  s1827 : 3 words  s1828 : 3 words  s1829 : 5 words  s1830 : 5 words  s1831 : 10 words  s1832 : 4 words  
+s1833 : 7 words  s1834 : 49 words  s1835 : 3 words  s1836 : 2 words  s1837 : 63 words  s1838 : 10 words  s1839 : 78 words  s1840 : 2 words  
+s1841 : 83 words  s1842 : 12 words  s1843 : 2 words  s1844 : 2 words  s1845 : 19 words  s1846 : 2 words  s1847 : 5 words  s1848 : 2 words  
+s1849 : 42 words  s1850 : 14 words  s1851 : 2 words  s1852 : 2 words  s1853 : 5 words  s1854 : 2 words  s1855 : 8 words  s1856 : 7 words  
+s1857 : 3 words  s1858 : 2 words  s1859 : 9 words  s1860 : 2 words  s1861 : 8 words  s1862 : 2 words  s1863 : 8 words  s1864 : 2 words  
+s1865 : 10 words  s1866 : 2 words  s1867 : 10 words  s1868 : 2 words  s1869 : 5 words  s1870 : 2 words  s1871 : 5 words  s1872 : 2 words  
+s1873 : 5 words  s1874 : 2 words  s1875 : 25 words  s1876 : 4 words  s1877 : 2 words  s1878 : 11 words  s1879 : 2 words  s1880 : 35 words  
+s1881 : 2 words  s1882 : 5 words  s1883 : 6 words  s1884 : 5 words  s1885 : 2 words  s1886 : 8 words  s1887 : 2 words  s1888 : 6 words  
+s1889 : 6 words  s1890 : 2 words  s1891 : 5 words  s1892 : 2 words  s1893 : 2 words  s1894 : 8 words  s1895 : 2 words  s1896 : 10 words  
+s1897 : 2 words  s1898 : 11 words  s1899 : 2 words  s1900 : 20 words  s1901 : 2 words  s1902 : 5 words  s1903 : 2 words  s1904 : 8 words  
+s1905 : 33 words  s1906 : 50 words  s1907 : 2 words  s1908 : 21 words  s1909 : 2 words  s1910 : 35 words  s1911 : 9 words  s1912 : 25 words  
+s1913 : 27 words  s1914 : 2 words  s1915 : 16 words  s1916 : 2 words  s1917 : 88 words  s1918 : 5 words  s1919 : 6 words  s1920 : 16 words  
+s1921 : 4 words  s1922 : 16 words  s1923 : 2 words  s1924 : 4 words  s1925 : 43 words  s1926 : 16 words  s1927 : 3 words  s1928 : 5 words  
+s1929 : 22 words  s1930 : 7 words  s1931 : 26 words  s1932 : 2 words  s1933 : 7 words  s1934 : 27 words  s1935 : 2 words  s1936 : 28 words  
+s1937 : 2 words  s1938 : 17 words  s1939 : 4 words  s1940 : 2 words  s1941 : 22 words  s1942 : 14 words  s1943 : 16 words  s1944 : 2 words  
+s1945 : 3 words  s1946 : 3 words  s1947 : 2 words  s1948 : 7 words  s1949 : 16 words  s1950 : 6 words  s1951 : 2 words  s1952 : 5 words  
+s1953 : 2 words  s1954 : 31 words  s1955 : 2 words  s1956 : 2 words  s1957 : 15 words  s1958 : 27 words  s1959 : 4 words  s1960 : 2 words  
+s1961 : 7 words  s1962 : 2 words  s1963 : 9 words  s1964 : 17 words  s1965 : 37 words  s1966 : 16 words  s1967 : 5 words  s1968 : 2 words  
+s1969 : 30 words  s1970 : 33 words  s1971 : 2 words  s1972 : 7 words  s1973 : 2 words  s1974 : 6 words  s1975 : 2 words  s1976 : 10 words  
+s1977 : 2 words  s1978 : 6 words  s1979 : 2 words  s1980 : 6 words  s1981 : 2 words  s1982 : 32 words  s1983 : 2 words  s1984 : 2 words  
+s1985 : 17 words  s1986 : 2 words  s1987 : 2 words  s1988 : 15 words  s1989 : 29 words  s1990 : 48 words  s1991 : 33 words  s1992 : 37 words  
+s1993 : 2 words  s1994 : 10 words  s1995 : 2 words  s1996 : 18 words  s1997 : 38 words  s1998 : 19 words  s1999 : 38 words  s2000 : 21 words  
+s2001 : 17 words  s2002 : 2 words  s2003 : 5 words  s2004 : 2 words  s2005 : 76 words  s2006 : 85 words  s2007 : 2 words  s2008 : 30 words  
+s2009 : 2 words  s2010 : 9 words  s2011 : 2 words  s2012 : 10 words  s2013 : 2 words  s2014 : 19 words  s2015 : 25 words  s2016 : 11 words  
+s2017 : 4 words  s2018 : 6 words  s2019 : 3 words  s2020 : 2 words  s2021 : 8 words  s2022 : 13 words  s2023 : 5 words  s2024 : 2 words  
+s2025 : 12 words  s2026 : 2 words  s2027 : 3 words  s2028 : 6 words  s2029 : 2 words  s2030 : 53 words  s2031 : 2 words  s2032 : 36 words  
+s2033 : 10 words  s2034 : 28 words  s2035 : 43 words  s2036 : 5 words  s2037 : 2 words  s2038 : 30 words  s2039 : 6 words  s2040 : 2 words  
+s2041 : 41 words  s2042 : 3 words  s2043 : 3 words  s2044 : 32 words  s2045 : 16 words  s2046 : 7 words  s2047 : 3 words  s2048 : 30 words  
+s2049 : 13 words  s2050 : 2 words  s2051 : 3 words  s2052 : 2 words  s2053 : 2 words  s2054 : 3 words  s2055 : 4 words  s2056 : 2 words  
+s2057 : 3 words  s2058 : 5 words  s2059 : 5 words  s2060 : 3 words  s2061 : 3 words  s2062 : 2 words  s2063 : 11 words  s2064 : 2 words  
+s2065 : 9 words  s2066 : 2 words  s2067 : 19 words  s2068 : 2 words  s2069 : 4 words  s2070 : 2 words  s2071 : 3 words  s2072 : 2 words  
+s2073 : 12 words  s2074 : 20 words  s2075 : 2 words  s2076 : 10 words  s2077 : 2 words  s2078 : 28 words  s2079 : 45 words  s2080 : 2 words  
+s2081 : 6 words  s2082 : 2 words  s2083 : 14 words  s2084 : 2 words  s2085 : 19 words  s2086 : 2 words  s2087 : 16 words  s2088 : 9 words  
+s2089 : 5 words  s2090 : 2 words  s2091 : 15 words  s2092 : 2 words  s2093 : 3 words  s2094 : 2 words  s2095 : 107 words  s2096 : 3 words  
+s2097 : 3 words  s2098 : 4 words  s2099 : 2 words  s2100 : 16 words  s2101 : 2 words  s2102 : 5 words  s2103 : 2 words  s2104 : 9 words  
+s2105 : 2 words  s2106 : 4 words  s2107 : 2 words  s2108 : 4 words  s2109 : 5 words  s2110 : 5 words  s2111 : 2 words  s2112 : 8 words  
+s2113 : 2 words  s2114 : 2 words  s2115 : 2 words  s2116 : 3 words  s2117 : 2 words  s2118 : 2 words  s2119 : 23 words  s2120 : 9 words  
+s2121 : 17 words  s2122 : 24 words  s2123 : 2 words  s2124 : 7 words  s2125 : 2 words  s2126 : 18 words  s2127 : 2 words  s2128 : 3 words  
+s2129 : 2 words  s2130 : 8 words  s2131 : 42 words  s2132 : 2 words  s2133 : 4 words  s2134 : 2 words  s2135 : 6 words  s2136 : 37 words  
+s2137 : 28 words  s2138 : 2 words  s2139 : 3 words  s2140 : 2 words  s2141 : 2 words  s2142 : 2 words  s2143 : 1 words  s2144 : 2 words  
+s2145 : 11 words  s2146 : 2 words  s2147 : 16 words  s2148 : 3 words  s2149 : 2 words  s2150 : 4 words  s2151 : 2 words  s2152 : 23 words  
+s2153 : 5 words  s2154 : 1 words  s2155 : 2 words  s2156 : 22 words  s2157 : 24 words  s2158 : 68 words  s2159 : 40 words  s2160 : 1 words  
+s2161 : 6 words  s2162 : 2 words  s2163 : 31 words  s2164 : 28 words  s2165 : 2 words  s2166 : 8 words  s2167 : 2 words  s2168 : 4 words  
+s2169 : 2 words  s2170 : 5 words  s2171 : 2 words  s2172 : 6 words  s2173 : 2 words  s2174 : 13 words  s2175 : 2 words  s2176 : 5 words  
+s2177 : 2 words  s2178 : 108 words  s2179 : 2 words  s2180 : 19 words  s2181 : 5 words  s2182 : 42 words  s2183 : 4 words  s2184 : 2 words  
+s2185 : 7 words  s2186 : 2 words  s2187 : 4 words  s2188 : 2 words  s2189 : 11 words  s2190 : 11 words  s2191 : 2 words  s2192 : 9 words  
+s2193 : 2 words  s2194 : 3 words  s2195 : 5 words  s2196 : 28 words  s2197 : 3 words  s2198 : 2 words  s2199 : 3 words  s2200 : 2 words  
+s2201 : 4 words  s2202 : 9 words  s2203 : 2 words  s2204 : 6 words  s2205 : 2 words  s2206 : 19 words  s2207 : 2 words  s2208 : 7 words  
+s2209 : 2 words  s2210 : 8 words  s2211 : 9 words  s2212 : 16 words  s2213 : 5 words  s2214 : 2 words  s2215 : 4 words  s2216 : 2 words  
+s2217 : 31 words  s2218 : 22 words  s2219 : 31 words  s2220 : 2 words  s2221 : 2 words  s2222 : 2 words  s2223 : 3 words  s2224 : 9 words  
+s2225 : 9 words  s2226 : 30 words  s2227 : 32 words  s2228 : 2 words  s2229 : 7 words  s2230 : 2 words  s2231 : 7 words  s2232 : 42 words  
+s2233 : 16 words  s2234 : 2 words  s2235 : 2 words  s2236 : 29 words  s2237 : 19 words  s2238 : 53 words  s2239 : 23 words  s2240 : 64 words  
+s2241 : 21 words  s2242 : 4 words  s2243 : 4 words  s2244 : 2 words  s2245 : 7 words  s2246 : 2 words  s2247 : 5 words  s2248 : 6 words  
+s2249 : 5 words  s2250 : 2 words  s2251 : 7 words  s2252 : 69 words  s2253 : 25 words  s2254 : 2 words  s2255 : 18 words  s2256 : 3 words  
+s2257 : 3 words  s2258 : 2 words  s2259 : 4 words  s2260 : 2 words  s2261 : 7 words  s2262 : 4 words  s2263 : 2 words  s2264 : 7 words  
+s2265 : 2 words  s2266 : 6 words  s2267 : 2 words  s2268 : 5 words  s2269 : 2 words  s2270 : 8 words  s2271 : 9 words  s2272 : 2 words  
+s2273 : 3 words  s2274 : 2 words  s2275 : 31 words  s2276 : 2 words  s2277 : 15 words  s2278 : 37 words  s2279 : 10 words  s2280 : 5 words  
+s2281 : 2 words  s2282 : 2 words  s2283 : 6 words  s2284 : 2 words  s2285 : 1 words  s2286 : 2 words  s2287 : 4 words  s2288 : 2 words  
+s2289 : 5 words  s2290 : 2 words  s2291 : 5 words  s2292 : 8 words  s2293 : 11 words  s2294 : 9 words  s2295 : 35 words  s2296 : 2 words  
+s2297 : 5 words  s2298 : 2 words  s2299 : 25 words  s2300 : 2 words  s2301 : 37 words  s2302 : 2 words  s2303 : 4 words  s2304 : 2 words  
+s2305 : 5 words  s2306 : 2 words  s2307 : 28 words  s2308 : 2 words  s2309 : 14 words  s2310 : 35 words  s2311 : 4 words  s2312 : 5 words  
+s2313 : 3 words  s2314 : 2 words  s2315 : 3 words  s2316 : 5 words  s2317 : 22 words  s2318 : 18 words  s2319 : 37 words  s2320 : 25 words  
+s2321 : 2 words  s2322 : 34 words  s2323 : 2 words  s2324 : 19 words  s2325 : 2 words  s2326 : 18 words  s2327 : 8 words  s2328 : 10 words  
+s2329 : 2 words  s2330 : 5 words  s2331 : 2 words  s2332 : 11 words  s2333 : 14 words  s2334 : 2 words  s2335 : 9 words  s2336 : 2 words  
+s2337 : 25 words  s2338 : 20 words  s2339 : 41 words  s2340 : 2 words  s2341 : 19 words  s2342 : 2 words  s2343 : 35 words  s2344 : 32 words  
+s2345 : 10 words  s2346 : 4 words  s2347 : 2 words  s2348 : 1 words  s2349 : 2 words  s2350 : 8 words  s2351 : 2 words  s2352 : 78 words  
+s2353 : 27 words  s2354 : 2 words  s2355 : 54 words  s2356 : 2 words  s2357 : 17 words  s2358 : 7 words  s2359 : 2 words  s2360 : 7 words  
+s2361 : 2 words  s2362 : 9 words  s2363 : 2 words  s2364 : 10 words  s2365 : 2 words  s2366 : 26 words  s2367 : 3 words  s2368 : 2 words  
+s2369 : 4 words  s2370 : 2 words  s2371 : 5 words  s2372 : 2 words  s2373 : 10 words  s2374 : 36 words  s2375 : 4 words  s2376 : 26 words  
+s2377 : 19 words  s2378 : 15 words  s2379 : 25 words  s2380 : 18 words  s2381 : 10 words  s2382 : 25 words  s2383 : 27 words  s2384 : 10 words  
+s2385 : 10 words  s2386 : 11 words  s2387 : 8 words  s2388 : 32 words  s2389 : 2 words  s2390 : 5 words  s2391 : 2 words  s2392 : 42 words  
+s2393 : 2 words  s2394 : 4 words  s2395 : 40 words  s2396 : 2 words  s2397 : 25 words  s2398 : 57 words  s2399 : 49 words  s2400 : 30 words  
+s2401 : 2 words  s2402 : 38 words  s2403 : 5 words  s2404 : 2 words  s2405 : 40 words  s2406 : 33 words  s2407 : 3 words  s2408 : 3 words  
+s2409 : 2 words  s2410 : 15 words  s2411 : 2 words  s2412 : 3 words  s2413 : 4 words  s2414 : 2 words  s2415 : 23 words  s2416 : 2 words  
+s2417 : 9 words  s2418 : 2 words  s2419 : 15 words  s2420 : 12 words  s2421 : 23 words  s2422 : 2 words  s2423 : 5 words  s2424 : 7 words  
+s2425 : 6 words  s2426 : 5 words  s2427 : 2 words  s2428 : 5 words  s2429 : 2 words  s2430 : 20 words  s2431 : 2 words  s2432 : 37 words  
+s2433 : 2 words  s2434 : 24 words  s2435 : 2 words  s2436 : 13 words  s2437 : 2 words  s2438 : 174 words  s2439 : 2 words  s2440 : 6 words  
+s2441 : 2 words  s2442 : 2 words  s2443 : 2 words  s2444 : 4 words  s2445 : 2 words  s2446 : 3 words  s2447 : 2 words  s2448 : 17 words  
+s2449 : 2 words  s2450 : 49 words  s2451 : 35 words  s2452 : 2 words  s2453 : 8 words  s2454 : 2 words  s2455 : 8 words  s2456 : 16 words  
+s2457 : 2 words  s2458 : 5 words  s2459 : 2 words  s2460 : 62 words  s2461 : 2 words  s2462 : 9 words  s2463 : 2 words  s2464 : 94 words  
+s2465 : 30 words  s2466 : 2 words  s2467 : 6 words  s2468 : 81 words  s2469 : 2 words  s2470 : 150 words  s2471 : 3 words  s2472 : 2 words  
+s2473 : 23 words  s2474 : 2 words  s2475 : 4 words  s2476 : 3 words  s2477 : 2 words  s2478 : 170 words  s2479 : 2 words  s2480 : 9 words  
+s2481 : 2 words  s2482 : 7 words  s2483 : 2 words  s2484 : 68 words  s2485 : 2 words  s2486 : 2 words  s2487 : 18 words  s2488 : 16 words  
+s2489 : 2 words  s2490 : 4 words  s2491 : 2 words  s2492 : 16 words  s2493 : 2 words  s2494 : 25 words  s2495 : 2 words  s2496 : 15 words  
+s2497 : 2 words  s2498 : 5 words  s2499 : 2 words  s2500 : 36 words  s2501 : 18 words  s2502 : 2 words  s2503 : 6 words  s2504 : 2 words  
+s2505 : 43 words  s2506 : 16 words  s2507 : 17 words  s2508 : 2 words  s2509 : 5 words  s2510 : 2 words  s2511 : 9 words  s2512 : 2 words  
+s2513 : 26 words  s2514 : 2 words  s2515 : 7 words  s2516 : 25 words  s2517 : 25 words  s2518 : 2 words  s2519 : 5 words  s2520 : 2 words  
+s2521 : 8 words  s2522 : 2 words  s2523 : 4 words  s2524 : 2 words  s2525 : 8 words  s2526 : 7 words  s2527 : 14 words  s2528 : 22 words  
+s2529 : 2 words  s2530 : 2 words  s2531 : 18 words  s2532 : 2 words  s2533 : 11 words  s2534 : 2 words  s2535 : 20 words  s2536 : 35 words  
+s2537 : 6 words  s2538 : 2 words  s2539 : 14 words  s2540 : 2 words  s2541 : 8 words  s2542 : 2 words  s2543 : 6 words  s2544 : 2 words  
+s2545 : 3 words  s2546 : 2 words  s2547 : 6 words  s2548 : 8 words  s2549 : 2 words  s2550 : 61 words  s2551 : 2 words  s2552 : 34 words  
+s2553 : 2 words  s2554 : 19 words  s2555 : 2 words  s2556 : 10 words  s2557 : 2 words  s2558 : 16 words  s2559 : 3 words  s2560 : 28 words  
+s2561 : 2 words  s2562 : 64 words  s2563 : 2 words  s2564 : 5 words  s2565 : 2 words  s2566 : 21 words  s2567 : 31 words  s2568 : 2 words  
+s2569 : 4 words  s2570 : 2 words  s2571 : 40 words  s2572 : 18 words  s2573 : 7 words  s2574 : 3 words  s2575 : 32 words  s2576 : 2 words  
+s2577 : 16 words  s2578 : 6 words  s2579 : 3 words  s2580 : 3 words  s2581 : 7 words  s2582 : 32 words  s2583 : 2 words  s2584 : 56 words  
+s2585 : 27 words  s2586 : 22 words  s2587 : 2 words  s2588 : 2 words  s2589 : 7 words  s2590 : 2 words  s2591 : 9 words  s2592 : 2 words  
+s2593 : 10 words  s2594 : 2 words  s2595 : 12 words  s2596 : 14 words  s2597 : 2 words  s2598 : 19 words  s2599 : 2 words  s2600 : 13 words  
+s2601 : 2 words  s2602 : 32 words  s2603 : 2 words  s2604 : 32 words  s2605 : 2 words  s2606 : 15 words  s2607 : 2 words  s2608 : 8 words  
+s2609 : 2 words  s2610 : 4 words  s2611 : 2 words  s2612 : 4 words  s2613 : 2 words  s2614 : 3 words  s2615 : 2 words  s2616 : 9 words  
+s2617 : 2 words  s2618 : 16 words  s2619 : 2 words  s2620 : 6 words  s2621 : 55 words  s2622 : 10 words  s2623 : 2 words  s2624 : 26 words  
+s2625 : 2 words  s2626 : 6 words  s2627 : 2 words  s2628 : 5 words  s2629 : 27 words  s2630 : 2 words  s2631 : 10 words  s2632 : 2 words  
+s2633 : 27 words  s2634 : 2 words  s2635 : 2 words  s2636 : 2 words  s2637 : 16 words  s2638 : 2 words  s2639 : 5 words  s2640 : 2 words  
+s2641 : 4 words  s2642 : 2 words  s2643 : 3 words  s2644 : 2 words  s2645 : 8 words  s2646 : 2 words  s2647 : 4 words  s2648 : 2 words  
+s2649 : 16 words  s2650 : 2 words  s2651 : 15 words  s2652 : 2 words  s2653 : 40 words  s2654 : 7 words  s2655 : 2 words  s2656 : 7 words  
+s2657 : 2 words  s2658 : 24 words  s2659 : 14 words  s2660 : 17 words  s2661 : 2 words  s2662 : 4 words  s2663 : 2 words  s2664 : 14 words  
+s2665 : 2 words  s2666 : 5 words  s2667 : 2 words  s2668 : 22 words  s2669 : 17 words  s2670 : 2 words  s2671 : 2 words  s2672 : 2 words  
+s2673 : 4 words  s2674 : 2 words  s2675 : 4 words  s2676 : 44 words  s2677 : 15 words  s2678 : 6 words  s2679 : 3 words  s2680 : 3 words  
+s2681 : 15 words  s2682 : 9 words  s2683 : 3 words  s2684 : 26 words  s2685 : 12 words  s2686 : 2 words  s2687 : 7 words  s2688 : 2 words  
+s2689 : 15 words  s2690 : 2 words  s2691 : 4 words  s2692 : 2 words  s2693 : 4 words  s2694 : 1 words  s2695 : 2 words  s2696 : 7 words  
+s2697 : 2 words  s2698 : 9 words  s2699 : 18 words  s2700 : 2 words  s2701 : 10 words  s2702 : 2 words  s2703 : 7 words  s2704 : 18 words  
+s2705 : 43 words  s2706 : 21 words  s2707 : 25 words  s2708 : 13 words  s2709 : 15 words  s2710 : 6 words  s2711 : 12 words  s2712 : 25 words  
+s2713 : 7 words  s2714 : 2 words  s2715 : 4 words  s2716 : 2 words  s2717 : 10 words  s2718 : 2 words  s2719 : 4 words  s2720 : 2 words  
+s2721 : 10 words  s2722 : 39 words  s2723 : 38 words  s2724 : 2 words  s2725 : 7 words  s2726 : 2 words  s2727 : 30 words  s2728 : 2 words  
+s2729 : 20 words  s2730 : 20 words  s2731 : 2 words  s2732 : 6 words  s2733 : 2 words  s2734 : 7 words  s2735 : 37 words  s2736 : 2 words  
+s2737 : 27 words  s2738 : 18 words  s2739 : 5 words  s2740 : 37 words  s2741 : 2 words  s2742 : 11 words  s2743 : 19 words  s2744 : 7 words  
+s2745 : 2 words  s2746 : 5 words  s2747 : 2 words  s2748 : 40 words  s2749 : 3 words  s2750 : 2 words  s2751 : 3 words  s2752 : 2 words  
+s2753 : 3 words  s2754 : 7 words  s2755 : 2 words  s2756 : 10 words  s2757 : 7 words  s2758 : 2 words  s2759 : 7 words  s2760 : 2 words  
+s2761 : 24 words  s2762 : 7 words  s2763 : 2 words  s2764 : 8 words  s2765 : 6 words  s2766 : 2 words  s2767 : 9 words  s2768 : 5 words  
+s2769 : 5 words  s2770 : 7 words  s2771 : 11 words  s2772 : 5 words  s2773 : 16 words  s2774 : 11 words  s2775 : 33 words  s2776 : 14 words  
+s2777 : 2 words  s2778 : 38 words  s2779 : 2 words  s2780 : 14 words  s2781 : 33 words  s2782 : 2 words  s2783 : 2 words  s2784 : 64 words  
+s2785 : 2 words  s2786 : 4 words  s2787 : 2 words  s2788 : 19 words  s2789 : 2 words  s2790 : 5 words  s2791 : 2 words  s2792 : 82 words  
+s2793 : 2 words  s2794 : 4 words  s2795 : 2 words  s2796 : 125 words  s2797 : 2 words  s2798 : 3 words  s2799 : 2 words  s2800 : 22 words  
+s2801 : 2 words  s2802 : 3 words  s2803 : 2 words  s2804 : 23 words  s2805 : 61 words  s2806 : 2 words  s2807 : 5 words  s2808 : 2 words  
+s2809 : 83 words  s2810 : 2 words  s2811 : 7 words  s2812 : 2 words  s2813 : 82 words  s2814 : 2 words  s2815 : 9 words  s2816 : 2 words  
+s2817 : 46 words  s2818 : 2 words  s2819 : 8 words  s2820 : 2 words  s2821 : 65 words  s2822 : 21 words  s2823 : 2 words  s2824 : 17 words  
+s2825 : 2 words  s2826 : 74 words  s2827 : 2 words  s2828 : 6 words  s2829 : 4 words  s2830 : 2 words  s2831 : 8 words  s2832 : 2 words  
+s2833 : 11 words  s2834 : 2 words  s2835 : 4 words  s2836 : 2 words  s2837 : 57 words  s2838 : 2 words  s2839 : 20 words  s2840 : 2 words  
+s2841 : 23 words  s2842 : 2 words  s2843 : 9 words  s2844 : 2 words  s2845 : 13 words  s2846 : 2 words  s2847 : 7 words  s2848 : 2 words  
+s2849 : 12 words  s2850 : 2 words  s2851 : 49 words  s2852 : 2 words  s2853 : 4 words  s2854 : 2 words  s2855 : 27 words  s2856 : 2 words  
+s2857 : 6 words  s2858 : 2 words  s2859 : 3 words  s2860 : 2 words  s2861 : 10 words  s2862 : 2 words  s2863 : 70 words  s2864 : 2 words  
+s2865 : 6 words  s2866 : 2 words  s2867 : 7 words  s2868 : 2 words  s2869 : 68 words  s2870 : 2 words  s2871 : 46 words  s2872 : 2 words  
+s2873 : 6 words  s2874 : 2 words  s2875 : 12 words  s2876 : 2 words  s2877 : 66 words  s2878 : 2 words  s2879 : 9 words  s2880 : 2 words  
+s2881 : 11 words  s2882 : 2 words  s2883 : 7 words  s2884 : 2 words  s2885 : 21 words  s2886 : 2 words  s2887 : 10 words  s2888 : 2 words  
+s2889 : 78 words  s2890 : 2 words  s2891 : 8 words  s2892 : 2 words  s2893 : 43 words  s2894 : 2 words  s2895 : 5 words  s2896 : 2 words  
+s2897 : 21 words  s2898 : 2 words  s2899 : 9 words  s2900 : 13 words  s2901 : 2 words  s2902 : 21 words  s2903 : 51 words  s2904 : 8 words  
+s2905 : 27 words  s2906 : 2 words  s2907 : 11 words  s2908 : 2 words  s2909 : 23 words  s2910 : 18 words  s2911 : 30 words  s2912 : 3 words  
+s2913 : 37 words  s2914 : 3 words  s2915 : 24 words  s2916 : 42 words  s2917 : 2 words  s2918 : 19 words  s2919 : 41 words  s2920 : 21 words  
+s2921 : 2 words  s2922 : 14 words  s2923 : 7 words  s2924 : 2 words  s2925 : 4 words  s2926 : 2 words  s2927 : 27 words  s2928 : 2 words  
+s2929 : 4 words  s2930 : 2 words  s2931 : 4 words  s2932 : 2 words  s2933 : 14 words  s2934 : 2 words  s2935 : 17 words  s2936 : 2 words  
+s2937 : 24 words  s2938 : 2 words  s2939 : 9 words  s2940 : 2 words  s2941 : 12 words  s2942 : 4 words  s2943 : 2 words  s2944 : 4 words  
+s2945 : 2 words  s2946 : 69 words  s2947 : 39 words  s2948 : 12 words  s2949 : 2 words  s2950 : 3 words  s2951 : 2 words  s2952 : 4 words  
+s2953 : 3 words  s2954 : 2 words  s2955 : 1 words  s2956 : 2 words  s2957 : 1 words  s2958 : 2 words  s2959 : 1 words  s2960 : 2 words  
+s2961 : 7 words  s2962 : 2 words  s2963 : 3 words  s2964 : 2 words  s2965 : 6 words  s2966 : 14 words  s2967 : 5 words  s2968 : 8 words  
+s2969 : 2 words  s2970 : 12 words  s2971 : 9 words  s2972 : 2 words  s2973 : 9 words  s2974 : 2 words  s2975 : 4 words  s2976 : 2 words  
+s2977 : 10 words  s2978 : 18 words  s2979 : 2 words  s2980 : 2 words  s2981 : 2 words  s2982 : 5 words  s2983 : 2 words  s2984 : 10 words  
+s2985 : 2 words  s2986 : 12 words  s2987 : 2 words  s2988 : 10 words  s2989 : 2 words  s2990 : 7 words  s2991 : 2 words  s2992 : 7 words  
+s2993 : 2 words  s2994 : 6 words  s2995 : 2 words  s2996 : 9 words  s2997 : 2 words  s2998 : 5 words  s2999 : 26 words  s3000 : 2 words  
+s3001 : 4 words  s3002 : 3 words  s3003 : 2 words  s3004 : 2 words  s3005 : 3 words  s3006 : 2 words  s3007 : 5 words  s3008 : 6 words  
+s3009 : 2 words  s3010 : 8 words  s3011 : 2 words  s3012 : 4 words  s3013 : 2 words  s3014 : 6 words  s3015 : 2 words  s3016 : 6 words  
+s3017 : 7 words  s3018 : 2 words  s3019 : 6 words  s3020 : 2 words  s3021 : 20 words  s3022 : 2 words  s3023 : 5 words  s3024 : 2 words  
+s3025 : 6 words  s3026 : 2 words  s3027 : 10 words  s3028 : 16 words  s3029 : 2 words  s3030 : 3 words  s3031 : 2 words  s3032 : 8 words  
+s3033 : 5 words  s3034 : 2 words  s3035 : 5 words  s3036 : 16 words  s3037 : 38 words  s3038 : 31 words  s3039 : 2 words  s3040 : 13 words  
+s3041 : 4 words  s3042 : 2 words  s3043 : 3 words  s3044 : 2 words  s3045 : 10 words  s3046 : 2 words  s3047 : 19 words  s3048 : 4 words  
+s3049 : 3 words  s3050 : 2 words  s3051 : 7 words  s3052 : 33 words  s3053 : 2 words  s3054 : 2 words  s3055 : 11 words  s3056 : 54 words  
+s3057 : 25 words  s3058 : 2 words  s3059 : 4 words  s3060 : 17 words  s3061 : 2 words  s3062 : 12 words  s3063 : 10 words  s3064 : 20 words  
+s3065 : 34 words  s3066 : 8 words  s3067 : 6 words  s3068 : 3 words  s3069 : 2 words  s3070 : 21 words  s3071 : 2 words  s3072 : 58 words  
+s3073 : 5 words  s3074 : 8 words  s3075 : 1 words  s3076 : 2 words  s3077 : 29 words  s3078 : 14 words  s3079 : 2 words  s3080 : 5 words  
+s3081 : 2 words  s3082 : 18 words  s3083 : 2 words  s3084 : 6 words  s3085 : 13 words  s3086 : 14 words  s3087 : 2 words  s3088 : 50 words  
+s3089 : 2 words  s3090 : 26 words  s3091 : 23 words  s3092 : 32 words  s3093 : 48 words  s3094 : 6 words  s3095 : 2 words  s3096 : 15 words  
+s3097 : 34 words  s3098 : 47 words  s3099 : 2 words  s3100 : 49 words  s3101 : 20 words  s3102 : 7 words  s3103 : 2 words  s3104 : 14 words  
+s3105 : 2 words  s3106 : 9 words  
